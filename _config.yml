@@ -28,7 +28,7 @@ github_username:  jekyll
 markdown: kramdown
 #theme: minima
 github: [metadata]
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
