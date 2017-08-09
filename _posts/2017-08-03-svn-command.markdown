@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "SVN 基本指令懶人包"
-subtitle:   "Useful SVN conmands"
+subtitle:   "Useful SVN commands"
 date:       2017-08-03 12:00:00
 author:     "Scoly"
 tags:
